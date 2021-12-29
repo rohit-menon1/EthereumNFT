@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract Chip is ERC1155,Ownable{
         uint256 public constant ChipId = 0;
-        constructor() ERC1155("") {
+        constructor() ERC1155("https://jeu5jbtjrwyb.usemoralis.com/{id}.json") {
             _mint(msg.sender , ChipId , 1 , "");
         }
 
