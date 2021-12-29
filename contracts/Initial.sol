@@ -5,6 +5,7 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
 contract InitialNFT is ERC721{
         constructor() ERC721("InitialNFT", "INF") {
+            
         }
 
 }
