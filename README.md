@@ -21,6 +21,8 @@ Here's a image of implemented user stories:
 ## Notes
 Chip0 contract address on rinkeby : 0x75D496ccFF799F49F4C7d69473d095070E0dE6FB
 
+OpenSea profile Link : https://testnets.opensea.io/RohitMenon
+
 ## Open-source libraries used
 
 - [Truffle]
