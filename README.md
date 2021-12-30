@@ -16,11 +16,11 @@ The following **required** functionality is completed:
 ## Final Output
 
 Here's a image of implemented user stories:
-<img src='TwitterWalkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='opensea.png' title='OpenSea Testnet' width='' alt='OpenSea Testnet' />
 
 ## Notes
+Chip0 contract address on rinkeby : 0x75D496ccFF799F49F4C7d69473d095070E0dE6FB
 
-Fixed error due to API keys 
 ## Open-source libraries used
 
 - [Truffle]
