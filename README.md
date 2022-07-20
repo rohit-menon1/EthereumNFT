@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [x] Minted Chip0 NFT using Rinkeby Testnet
   - [x] Used truffle to deploy contract
   - [x] Deployed NFT to testnet blockchain
-  - [x] NFT viewable through OpenSea
+  - [x] NFT viewable through OpenSea Test
   
 ## Final Output
 
